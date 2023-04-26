@@ -59,4 +59,4 @@ This project was created by [SahSofts](https://github.com/SahSofts/) and is lice
 
 ## Contact
 
-If you have any questions or feedback about this project, please contact [SahSofts] at [sahsofts97@gmail.com].
+If you have any questions or feedback about this project, please contact [SahSofts](https://www.linkedin.com/in/sahsofts/)
