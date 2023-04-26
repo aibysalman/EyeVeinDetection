@@ -39,6 +39,24 @@ To use this script, you must provide it with eye images to analyze. The images m
 
 4. Run the cells in the notebook file.
 
-5. The output will be displayed in the notebook itself. The script will display the original eye image with green marks of detection on the image's veins, and alongside it, it will display another image with all detected veins in white.
 
 Note: If you want to use this code in a Python script or module, simply copy the relevant code cells from the notebook into a Python file with a `.py` extension, and add the required import statements for the `opencv-python` module. Remember to remove any unnecessary cells that may cause errors when running the script.
+
+
+## Result
+
+When the script is run, it will display the original eye image with green marks of detection on the image's veins, and alongside it, it will display another image with all detected veins in white.
+
+
+## Contributing
+
+If you would like to contribute to this project, please fork the repository and submit a pull request. We welcome bug reports, feature requests, and other contributions.
+
+
+## Credits
+This project was created by [SahSofts](https://github.com/SahSofts/) and is licensed under the [MIT License](https://opensource.org/licenses/MIT)
+
+
+## Contact
+
+If you have any questions or feedback about this project, please contact [SahSofts] at [sahsofts97@gmail.com].
