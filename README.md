@@ -11,12 +11,14 @@ To use this script, you must have Python 3.x and OpenCV 4.x installed on your sy
     
     ```bash
     pip install opencv-python==4.6.0.66
-    ```
+
+```
 
 Next, clone this repository to your local machine using the following command:
     
     ```bash
     git clone https://github.com/SahSofts/EyeVeinDetection.git
+
     ```
 
 Next, navigate to the repository folder and install the required dependencies using pip:
@@ -24,11 +26,12 @@ Next, navigate to the repository folder and install the required dependencies us
     ```bash
     cd EyeVeinDetection
     pip install -r requirements.txt
+    
     ```
 
 ## Usage
 
-To use this script, you must provide it with eye images to analyze. The images must be in JPG format and stored in a folder called images within the repository folder.
+To use this script, you must provide it with eye images to analyze. The images must be in JPG format and stored in a folder called `images` within the repository folder.
 
 
 1. Install the required `opencv-python` module using the command `pip install opencv-python`.
