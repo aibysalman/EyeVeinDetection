@@ -9,25 +9,22 @@ To use this script, you must have Python 3.x and OpenCV 4.x installed on your sy
 - Install Python 3.x from the official website: https://www.python.org/downloads/
 - Install OpenCV 4.x using pip:
     
-    ```bash
+```bash
     pip install opencv-python==4.6.0.66
-
 ```
 
 Next, clone this repository to your local machine using the following command:
     
-    ```bash
+```bash
     git clone https://github.com/SahSofts/EyeVeinDetection.git
-
-    ```
+```
 
 Next, navigate to the repository folder and install the required dependencies using pip:
     
-    ```bash
+```bash
     cd EyeVeinDetection
     pip install -r requirements.txt
-    
-    ```
+```
 
 ## Usage
 
